@@ -14,4 +14,14 @@ Run ```log_motility_data.py``` for each "result file"  in order to group its dat
 - Input: All the *results files*.
 - Output: A *trajectory file* and a *motility parameter file* that contain, respectively, the coordinate vector and the motility parameter of each tracked cell. Additionally, you will obtain 4 text files that contain the average, median, standard deviation and speed of the motility parameters for each sample.
 
-## 
+## Generate the *image dataset*
+
+Run ```image_dataset_gen.ipynb``` to generate the *image dataset* that contains the *trajectories' images* extracted from the coordinate vectors stored in the *trajectory file*.
+- Input: The *trajectory file*.
+- Output: The *image dataset* and the *master dataframe* (optional, but recommended).
+
+## Comput the clusters and update the *master dataframe* (Pending...)
+
+Run ```traj_agglo.ipynb``` in order to group the *trajectories' images* using the hierarchical agglomerative algorithm.
+- Input: ?
+- Output: The *master dataframe* updated (clusters included).
