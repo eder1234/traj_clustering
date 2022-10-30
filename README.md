@@ -20,7 +20,7 @@ Run ```image_dataset_gen.ipynb``` to generate the *image dataset* that contains 
 - Input: The *trajectory file*.
 - Output: The *image dataset* and the *master dataframe* (optional, but recommended).
 
-## Comput the clusters and update the *master dataframe* (Pending...)
+## Compute the clusters and update the *master dataframe* (Pending...)
 
 Run ```traj_agglo.ipynb``` in order to group the *trajectories' images* using the hierarchical agglomerative algorithm.
 - Input: ?
