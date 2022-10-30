@@ -20,8 +20,14 @@ Run ```image_dataset_gen.ipynb``` to generate the *image dataset* that contains 
 - Input: The *trajectory file*.
 - Output: The *image dataset* and the *master dataframe* (optional, but recommended).
 
-## Compute the clusters and update the *master dataframe* (Pending...)
+## Compute the clusters and update the *master dataframe*
 
 Run ```traj_agglo.ipynb``` in order to group the *trajectories' images* using the hierarchical agglomerative algorithm.
-- Input: ?
-- Output: The *master dataframe* updated (clusters included).
+- Input: The *master dataframe* and the number of clusters.
+- Output: The *clustered dataframe*, which is the updated version of the *master dateframe* where the clusters are included.
+
+## TODO
+
+- Add links to provide the demo files
+- Visualization functions
+- Statistical functions for clustered_df
