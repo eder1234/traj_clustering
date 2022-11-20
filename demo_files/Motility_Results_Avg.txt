@@ -1,0 +1,2 @@
+ID1 ID2 ID3 ID4 TM         PM         AvgVCL     AvgVAP     AvgVSL     AvgLIN     AvgSTR     AvgWOB     AvgBeats    AvgALH
+id1 id2 id3 id4 8.0       8.0       71.209595       36.177666       30.855854       0.42969483       0.85364264       0.50804484       41.724403       2.7793226

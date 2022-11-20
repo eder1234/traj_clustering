@@ -1,0 +1,2 @@
+ID1 ID2 ID3 ID4 SLOW     MEDIUM     RAPID
+id1 id2 id3 id4 8.0   0.0   0.0

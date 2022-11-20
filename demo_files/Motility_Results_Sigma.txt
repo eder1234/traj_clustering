@@ -1,0 +1,2 @@
+ID1 ID2 ID3 ID4 SigmaVCL        SigmaVAP        SigmaVSL        SigmaLIN        SigmaSTR        SigmaWOB        SigmaBeats        SigmaALH
+id1 id2 id3 id4 9.046363   7.481202   7.7130704   0.061108675   0.10063966   0.07954455   3.2590113   0.35738745

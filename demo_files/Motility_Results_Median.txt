@@ -1,0 +1,2 @@
+ID1 ID2 ID3 ID4 MedianVCL        MedianVAP        MedianVSL        MedianLIN        MedianSTR        MedianWOB        MedianBeats        MedianALH
+id1 id2 id3 id4 70.51487   35.50379   28.192465   0.42944977   0.88247424   0.5022567   42.52722   2.765182
