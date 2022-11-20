@@ -10,8 +10,8 @@ Firstly, go to the ImageJ folder and install ```BGM_7.java``` as an ImageJ's plu
 
 ## Group the *result files* into *stacked files*
 
-Run ```log_motility_data.py``` for each "results file"  in order to group its data into 6 *stacked files*.
-- Input: All the *results files*.
+Run ```log_motility_data-6.py``` for each "results file"  in order to group its data into 6 *stacked files*. Please refer to ```results_file.txt``` for standard format.
+- Input: All the *results files*. Example for a single results file processing in Ubuntu's terminal ```$python3 log_motility_data-6.py results_file.txt id1 id2 id3 id4```.
 - Output: A *trajectory file* and a *motility parameter file* that contain, respectively, the coordinate vector and the motility parameter of each tracked cell. Additionally, you will obtain 4 text files that contain the average, median, standard deviation and speed of the motility parameters for each sample.
 
 ## Generate the *image dataset*
